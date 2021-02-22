@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Docs folder
+# Development Environment
 
 {% include list.liquid all=true %}

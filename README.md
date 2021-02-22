@@ -1,8 +1,6 @@
-# starter
+# Network Automation and Telemetry Workstream Documentation
 
-1. [Generate with the same files and folders](https://github.com/rundocs/starter/generate) from this repository
-2. Set up your GitHub Pages to source(`/`)
-3. Now you can view your documentation in your site
+Below is the list of files that are *user managed*
 
 ## site.pages
 
@@ -18,7 +16,7 @@
 
 ## Documents
 
-https://jekyll-rtd-theme.rundocs.io
+
 
 ## Local debug
 
@@ -27,6 +25,3 @@ make
 make server
 ```
 
-## The license
-
-The theme is available as open source under the terms of the MIT License
