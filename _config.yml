@@ -2,7 +2,7 @@ title: Network Automation Team
 lang: en
 description: Architectural documentation for the Network Automation and Telemetry Workstream
 
-remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: psmware-ghpages-theme
 
 readme_index:
   with_frontmatter: true
