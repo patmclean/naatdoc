@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-gem "jekyll-rtd-theme", "~> 2.0.5"
+gem "psmware-ghpages-theme",:git => "git://github.com/psmware-ltd/ghpages-theme.git"
 
 gem "github-pages", group: :jekyll_plugins
